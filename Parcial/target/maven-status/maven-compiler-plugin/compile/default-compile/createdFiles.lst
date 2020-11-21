@@ -1,0 +1,15 @@
+com\mycompany\parcial\clases\Proveedor_.class
+com\mycompany\parcial\clases\Motocicletas_1.class
+com\mycompany\parcial\clases\service\ProveedorFacadeREST.class
+com\mycompany\parcial\clases\Marca_.class
+com\mycompany\parcial\clases\Proveedor.class
+com\mycompany\parcial\clases\Modelo_.class
+com\mycompany\parcial\principal\Principal.class
+com\mycompany\parcial\clases\Motocicletas_1_.class
+com\mycompany\parcial\clases\service\ModeloFacadeREST.class
+com\mycompany\parcial\clases\service\MarcaFacadeREST.class
+com\mycompany\parcial\clases\service\Motocicletas_1FacadeREST.class
+com\mycompany\parcial\clases\Marca.class
+com\mycompany\parcial\clases\service\AbstractFacade.class
+com\mycompany\parcial\clases\service\ApplicationConfig.class
+com\mycompany\parcial\clases\Modelo.class
