@@ -9,3 +9,5 @@ Adjunto se puede encontrar la siguiente información:
 3. Backup de base de datos. Se utilizó MySQL como base de datos.
 
 4. Carpeta de la API Restful creada en Netbeans.
+
+Se hicieron pruebas con los métodos Get, Post, Put y Delete con RESTClient y la aplicación funciona correctamente.
